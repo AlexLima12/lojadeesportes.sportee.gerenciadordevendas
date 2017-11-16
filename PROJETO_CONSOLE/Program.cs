@@ -6,7 +6,8 @@ namespace PROJETO_CONSOLE
     {
         static void Main(string[] args)
         {
-           
+           System.Console.WriteLine("teste");
+            System.Console.WriteLine("teste");
         }
     }
 }
